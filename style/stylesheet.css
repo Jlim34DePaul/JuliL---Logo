@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.custom-bg {
+    background-color: black !important;
+  }
+
+.brand-name {
+    color: white;
+}
+
+.favicon {
+    width: 65px;
+    height: 65px;
+    max-height: 100%; 
+    width: auto;
+    margin-top: 20px;
+}
+
+.favicon_top {
+    width: 25px;
+    height: 25px;
+}
